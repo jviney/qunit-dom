@@ -40,12 +40,6 @@
     ]
   },
   "main": "dist/qunit-dom.js",
-  "dependencies": {
-    "broccoli-funnel": "^3.0.3",
-    "broccoli-merge-trees": "^4.2.0",
-    "ember-cli-babel": "^7.23.0",
-    "ember-cli-version-checker": "^5.1.1"
-  },
   "devDependencies": {
     "@ember/optional-features": "2.0.0",
     "@ember/test-helpers": "2.5.0",
