@@ -39,6 +39,7 @@
       "/dist/"
     ]
   },
+  "main": "dist/qunit-dom.js",
   "dependencies": {
     "broccoli-funnel": "^3.0.3",
     "broccoli-merge-trees": "^4.2.0",
